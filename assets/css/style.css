@@ -981,7 +981,8 @@ img {
 }
 
 .footer__link:hover {
-    color: var(--first-color-lighter);
+    color: var(--first-color);
+    transition: .3s;
 }
 
 .footer__social {
@@ -991,7 +992,8 @@ img {
 }
 
 .footer__social:hover {
-    color: var(--first-color-lighter);
+    color: var(--first-color);
+    transition: .3s;
 }
 
 .footer__copy {
